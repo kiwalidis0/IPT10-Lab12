@@ -1,0 +1,57 @@
+[
+    {
+        "item_number": 1,
+        "question": "What does the 'P' in IPT stand for?",
+        "choices": [
+            {"letter": "A", "choice": "Power"},
+            {"letter": "B", "choice": "Program"},
+            {"letter": "C", "choice": "Programming"},
+            {"letter": "D", "choice": "Postgre"}
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "item_number": 2,
+        "question": "What does the 'A' in AIM stand for?",
+        "choices": [
+            {"letter": "A", "choice": "Advertisment"},
+            {"letter": "B", "choice": "Aha-Moment"},
+            {"letter": "C", "choice": "Aimbot"},
+            {"letter": "D", "choice": "Advance"}
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "item_number": 3,
+        "question": "What does the 'D' in PDC10 stand for?",
+        "choices": [
+            {"letter": "A", "choice": "Dog"},
+            {"letter": "B", "choice": "Drawing"},
+            {"letter": "C", "choice": "Donut"},
+            {"letter": "D", "choice": "Domain"}
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "item_number": 4,
+        "question": "What does the 'I' in ITE20 stand for?",
+        "choices": [
+            {"letter": "A", "choice": "Interface"},
+            {"letter": "B", "choice": "Information"},
+            {"letter": "C", "choice": "Infrastructure"},
+            {"letter": "D", "choice": "Not listed"}
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "item_number": 5,
+        "question": "What does the 'I' in SIP10 stand for?",
+        "choices": [
+            {"letter": "A", "choice": "Issues"},
+            {"letter": "B", "choice": "Integrate"},
+            {"letter": "C", "choice": "Information"},
+            {"letter": "D", "choice": "Not listed"}
+        ],
+        "correct_answer": "A"
+    }
+]
